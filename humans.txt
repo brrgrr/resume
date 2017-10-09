@@ -1,0 +1,14 @@
+/* TEAM */
+
+    Chief Cook and Bottle Washer: Eric M. Berger
+    Contact: eric [at] brrgrr.com
+    Twitter: @brrgrr
+    Location: St. Louis, Missouri, USA
+
+/* SITE */
+
+    Last update: 2017/10/09
+    Language: English
+    Standards: HTML5, CSS3
+    Software: Visual Studio Code, Notepad++, Beyond Compare, paint.net
+
